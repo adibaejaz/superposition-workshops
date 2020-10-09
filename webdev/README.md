@@ -8,4 +8,4 @@ Scope of Workshop 1 on October 9, 2020.
 
 To host your own website on GitHub pages, see [this tutorial](https://guides.github.com/features/pages/).
 
-Clone this repository to your computer to make any changes you want to!
+[Clone](https://guides.github.com/features/pages/) this repository to your computer to make any changes you want to!
