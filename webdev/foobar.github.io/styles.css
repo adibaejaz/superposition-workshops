@@ -1,0 +1,42 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.nav-bar-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-side-wrapper {
+    margin-right: 20px;
+}
+
+.nav-bar-wrapper > .left-side-wrapper > div {
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.left-side-wrapper a {
+    color: grey;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.left-side-wrapper a:hover {
+    color: black
+}
+.nav-link {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+  }
+
+.nav-link:hover {
+    border-bottom: 1px solid  black;
+    transition: border-bottom 
+}
